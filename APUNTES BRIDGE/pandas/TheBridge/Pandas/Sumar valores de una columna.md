@@ -1,0 +1,2 @@
+
+df['nombre columna'].sum()

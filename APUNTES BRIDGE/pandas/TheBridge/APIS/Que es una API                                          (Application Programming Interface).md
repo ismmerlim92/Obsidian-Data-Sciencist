@@ -1,0 +1,2 @@
+
+Se trata de una pieza de software intermedia que permite que dos aplicaciones se hablen entre ellas. Las APIs corren en el servidor y tienen un conjunto de operaciones y subrutinas bien definidas. El lado del cliente necesita saber cómo está definida esa API, para poder acceder a los datos
