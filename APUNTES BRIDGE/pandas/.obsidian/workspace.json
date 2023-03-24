@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be2fc270b9ed959a",
+            "id": "80b3c07ad4402c53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheBridge/APIS/Metodos para webs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e53d8e5d76993e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TheBridge/Pandas/Valores unicos en columna.md",
+                "file": "TheBridge/APIS/Navegar Hijos Beautiful Soap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheBridge/Pandas/Valores unicos en columna.md",
+                "file": "TheBridge/APIS/Navegar Hijos Beautiful Soap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheBridge/Pandas/Valores unicos en columna.md",
+                "file": "TheBridge/APIS/Navegar Hijos Beautiful Soap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheBridge/Pandas/Valores unicos en columna.md"
+                "file": "TheBridge/APIS/Navegar Hijos Beautiful Soap.md"
               }
             }
           }
@@ -159,43 +146,45 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5e53d8e5d76993e7",
+  "active": "80b3c07ad4402c53",
   "lastOpenFiles": [
-    "TheBridge/Pandas/Principales estadisticas Dataframe.md",
-    "TheBridge/Pandas/Dimensiones de Dataframe.md",
-    "TheBridge/Pandas/Eliminar una columna Dataframe.md",
-    "TheBridge/Pandas/Primeros y ultimos registros Dataframe.md",
-    "TheBridge/Pandas/Nombre de columnas.md",
-    "TheBridge/Pandas/Tipos de datos Dataframe.md",
-    "TheBridge/Pandas/Mostrar valores menores que.md",
-    "TheBridge/Pandas/Unique.md",
-    "TheBridge/Pandas/Agrupar por Group By.md",
-    "TheBridge/Pandas/Concatenar y merge Dataset.md",
-    "TheBridge/Pandas/Desviacion tipica y dispersion estandar.md",
-    "TheBridge/Pandas/Imprimir algunas filas o columnas ILOC.md",
-    "TheBridge/Pandas/Valores unicos en columna.md",
-    "TheBridge/Pandas/Histograma.md",
-    "TheBridge/APIS/Que es una API                                          (Application Programming Interface).md",
-    "TheBridge/APIS/Metodos para webs.md",
+    "TheBridge/APIS/Find y Find_all -- Beautiful Soap.md",
+    "Pasted image 20230323111412.png",
+    "Pasted image 20230323111053.png",
+    "TheBridge/APIS/Navegar Hijos Beautiful Soap.md",
+    "TheBridge/APIS/Objetos Tag y NavigableString (soup).md",
+    "TheBridge/APIS/Pasos Scraping Web con Beautiful Soap.md",
+    "TheBridge/APIS/Navegar Padres Beautiful Soap.md",
+    "WhatsApp Image 2023-03-23 at 10.34.25.jpeg",
+    "Pasted image 20230323100816.png",
+    "TheBridge/APIS/WEB SCRAPING.md",
+    "TheBridge/APIS/Beatiful Soap.md",
     "TheBridge/APIS/HTTP Codigo respuesta.md",
-    "Pasted image 20230321133742.png",
-    "TheBridge/APIS/Protoco http.md",
+    "TheBridge/APIS/Procedimiento API.md",
     "TheBridge/Pandas/All o any.md",
     "TheBridge/Pandas/isin.md",
-    "TheBridge/Pandas/Coeficiente de correlacion lineal.md",
-    "TheBridge/Pandas/Ordenar valores.md",
+    "TheBridge/Pandas/Agrupar por Group By.md",
+    "TheBridge/Pandas/Boxplot Seaborn -- Diagrama de Caja y Bigote.md",
+    "TheBridge/Pandas/Histograma.md",
+    "TheBridge/Pandas/Quartiles.md",
+    "TheBridge/Pandas/Desviacion tipica y dispersion estandar.md",
+    "TheBridge/Pandas/Sumar valores de una columna.md",
+    "TheBridge/Pandas/Convierte Dataframe en Array.md",
+    "TheBridge/Pandas/Eliminar una columna Dataframe.md",
+    "TheBridge/Pandas/Tipos de datos Dataframe.md",
+    "TheBridge/Pandas/Nombre de columnas.md",
+    "TheBridge/Pandas/Leer un Csv.md",
+    "TheBridge/Pandas/Imprimir algunas filas o columnas ILOC.md",
+    "TheBridge/Pandas/Imprimir filas o columnas LOC.md",
+    "TheBridge/Pandas/Pivot Table.md",
+    "Pasted image 20230321133742.png",
     "Pasted image 20230321110435.png",
     "Pasted image 20230321133554.png",
     "Pasted image 20230321133441.png",
     "TheBridge/APIS",
     "Pasted image 20230321131608.png",
-    "TheBridge/Pandas/Pivot Table.md",
-    "TheBridge/Pandas/Renombrar columnas.md",
-    "TheBridge/Pandas/Boxplot Seaborn -- Diagrama de Caja y Bigote.md",
     "Untitled",
     "Pasted image 20230321111728.png",
-    "Pasted image 20230321105714.png",
-    "TheBridge/Pandas/Sacar el tipo con valor maximo.md",
     "Birras.ipynb",
     "TheBridge/Pandas",
     "TheBridge"
